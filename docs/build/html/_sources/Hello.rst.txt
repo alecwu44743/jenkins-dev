@@ -1,0 +1,8 @@
+documentation for "Hello"
+=========================
+
+.. automodule:: Hello
+   :noindex:
+   :members:
+   :undoc-members:
+   :show-inheritance:
